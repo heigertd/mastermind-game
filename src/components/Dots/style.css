@@ -1,0 +1,27 @@
+.dot {
+    height: 7vw;
+    width: 7vw;
+    border-radius: 50%;
+    background-color: grey;
+    /* position: relative; */
+    top: 14.5%;
+    left: 14.5%;
+    box-shadow: 3px 2px inset rgba(78, 66, 66, 0.993);
+}
+.resultDot {
+    height: 2vw;
+    width: 2vw;
+    border-radius: 50%;
+    background-color: grey;
+    /* position: relative; */
+    margin: 1px;
+    top: 25.5%;
+    right: 35.5%;
+    box-shadow: 3px 2px inset rgba(78, 66, 66, 0.993);
+}
+
+.flexDot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
